@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CE760A801FD154C300000ED3"
-               BuildableName = "RxSwiftExt-watchOS.framework"
+               BuildableName = "RxSwiftExt.framework"
                BlueprintName = "RxSwiftExt-watchOS"
                ReferencedContainer = "container:RxSwiftExt.xcodeproj">
             </BuildableReference>
@@ -48,7 +48,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE760A801FD154C300000ED3"
-            BuildableName = "RxSwiftExt-watchOS.framework"
+            BuildableName = "RxSwiftExt.framework"
             BlueprintName = "RxSwiftExt-watchOS"
             ReferencedContainer = "container:RxSwiftExt.xcodeproj">
          </BuildableReference>
@@ -66,7 +66,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE760A801FD154C300000ED3"
-            BuildableName = "RxSwiftExt-watchOS.framework"
+            BuildableName = "RxSwiftExt.framework"
             BlueprintName = "RxSwiftExt-watchOS"
             ReferencedContainer = "container:RxSwiftExt.xcodeproj">
          </BuildableReference>
